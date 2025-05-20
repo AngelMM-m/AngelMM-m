@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Angel from Spain <br><br>- 🔭 I’m working as  <br>- 📚 I'm currently learning cybersecurity <br>- ⚡ In my free time I.. sports (all of them) </p>
+<p align="left">I'm Angel from Spain <br><br>- 🔭 I’m working as  <br>- 📚 I'm currently learning cybersecurity <br>- ⚡ In my free time I.. hack...trying it </p>
 
 ###
 
